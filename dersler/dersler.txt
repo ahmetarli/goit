@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 masterda yapılan değişiklik
+=======
+sade save
+>>>>>>> sade
