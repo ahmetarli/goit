@@ -3,3 +3,6 @@ masterda yapılan değişiklik
 =======
 sade save
 >>>>>>> sade
+
+
++++ahmet
